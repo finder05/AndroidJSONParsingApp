@@ -125,8 +125,4 @@ This project helps understand how to:
 
 ---
 
-## 👤 Author
 
-**Your Name Here**
-
----
